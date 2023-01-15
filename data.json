@@ -1,5 +1,6 @@
 
-   "lessons": [
+{   
+"lessons": [
     {
       "id": 1,
       "title": "Computer fundamentals",
@@ -140,3 +141,4 @@
       ]
     }
   ]
+}
