@@ -1,141 +1,1592 @@
 {
-    "lessons": [
-      {
-        "id": 1,
-        "title": "Computer fundamentals",
-        "resources": [
-          {
-            "id": 1,
-            "subTitle": "Introduction to computer",
-            "image": "https://media.discordapp.net/attachments/1059720863307538503/1061578242575839253/operating-system.png?width=1073&height=663",
-            "description": "A computer is an electronic devices that takes input in the form of data and information, process it, gives meaningful output and store it. Computers are everywhere at school, home, bank, supermarket etc. The parts of a computer include the monitor, which displays information; the keyboard, which is used to type; the mouse, which is used to click; and the computer itself, which houses the computer's components.",
-            "points": [
-              {
-                "pointTitle": "",
-                "pointDescription": " ",
-                "subPoints": [
-                  {
-                    "subpointTitle": "",
-                    "subpointDescription": ""
-                  }
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Computer fundamentals",
+      "resources": [
+        {
+          "id": 1,
+          "type": "QuestionAnswer",
+          "question": "Introduction to Computer",
+          "image": "",
+          "answer": "A computer is an electronic devices that takes input in the form of data and information, process it, gives meaningful output and store it. Computers are everywhere at school, home, bank, supermarket etc. The parts of a computer include the monitor, which displays information; the keyboard, which is used to type; the mouse, which is used to click; and the computer itself, which houses the computer's components.",
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 2,
+          "type": "QuestionAnswer",
+          "question": "How does Computer Work?",
+          "description": "",
+          "image": "",
+          "answer": "As we know, Computer is an electronic device. So, first of all supply of electricity is must. And, it takes input from user through input devices and most common input devices is keyword. After input is taken, it starts processing the input data in CPU using processor. Finally, Output is displayed in the monitor. Users can store the processed information the storage device of the computer.                ",
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 3,
+          "type": "QuestionPointsAnswer",
+          "question": "Turn ON/OFF Computer  ",
+          "image": "link",
+          "points": [
+            {
+              "Turning ON Computer:": [
+                "Step 1: Check the computer is connected to the power supply(main plug) and main plug is ON.",
+                "Step 2: Find the ON/OFF button on the computer system and push the button.",
+                "Step 3: Switch ON the monitor incase it is OFF.",
+                "Step 4: Welcome screen is displayed."
+              ]
+            },
+            {
+              "Turning Off Computer:": [
+                "Step 1: Click on the 'Start' button",
+                "Step 2: Click on the 'Shut Down' button.",
+                "Step 3: Wait for the screen to turn black.",
+                "Step 4: Switch OFF the main plug."
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 4,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Using Keyboard and Mouse                ",
+          "description": "",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Keyboard",
+              "pointDescription": "The keyboard is the most used input device to give input to the computer. Eack key on the keyboard is assigned a specific function. The different keys on the keyboard are described below:                        ",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Alphanumeric keys: They are used for entering text or commands into the computer. E.g. A, S, D etc."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Function Keys: The twelve keys located across the top of keyboard are known as Function keys. They are used to issue commands. E.g. F1 to F12."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Control Keys: These keys are used in combination with other keys to give commands. E.g. Shift, Ctrl and Alt."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Enter Key: To execute the written command, performs the selected option, to go on next line."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Backspace: These key deletes one character to the left of the cursor, each time you press it."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Delete: These key deletes one character to the right of the cursor, each time you press it."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Spacebar: These key is used to give space between words or sentence."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "ESC: The Escape key is used to cancel a current selection. And, it is located in the upper left hand corner."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Tab: These key is used to advance the cursor in the right; a certain specified number of spaces."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Caps Lock: These key is used to type the uppercase alphabets. E.g. A, D, G etc."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Arrow Keys: These key is used to move the cursor up, down, left, or right."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Insert: These key is used to switch between insert and typeover modes."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Home: These key is used to move the cursor to the beginning of the line of data."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "End: These moves the cursor to the end of the line of data."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Page Up and Down: These key is used when scrolling through documents."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Num Lock: These key changes the mode of the cursor and Numeric keypad."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Number Keys: They are used to input numbers as well as to perform mathematical operation."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Windows Key: These is used to open the Start menu on the taskbar."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Mouse",
+              "pointDescription": "A Mouse is a small, hand-held input device. It is connected to the computer through wire knowns as USB or without the wire using Bluetooth connector. It controls the movement of the cursor on the computer screen and allows the user to move, select file and folder, and icon on computer. In Mouse, there is two buttons; Left button to select items and Right button to open the menus. The following are the use of Mouse: ",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Point: Move the mouse cursor on the screen over the desired item and in the desired direction."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Select: Mouse provides the user to select the files and folders by placing the cursor over that item."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Open: By pressing the left button twice, you can open the selected item."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Drag and Drop: Selected item can be moved, Press and hold the left button, and then slide the cursor to the new location. Then release the mouse button."
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 5,
+          "type": "QuestionPointsAnswer",
+          "question": "Change Desktop Background",
+          "image": "link",
+          "points": [
+            {
+              "Users can change the background of desktop.Following are the step to change the desktop background: :": [
+                "Step 1: Select the Start button.",
+                "Step 2: Now, Click the 'Setting'.",
+                "Step 3: Select Personalization.",
+                "Step 4: In Personalization, Click on Background. ",
+                "Step 5: Now, select the Picture, Solid color, or Slideshow."
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 6,
+          "type": "QuestionAnswerPoints",
+          "question": "Screen Resolution",
+          "image": "",
+          "answer": "Screen resolution expresses how many pixels are present in a display or entire screen. A given display will have a maximum resolution that depends on its physical ability to focus light. In general, screen resolution is the number of pixels a screen can show horizontally and vertically. E.g. so, a screen with resolution of 1920x1080 ,1080p can display 1,920 pixels horizontally and 1080 pixels vertically.Icons and texts may appear too small on screens configured with a greater resolution than they are meant to accommodate. On the other hand, if the screen resolution is too low, it usually results in poor image quality.",
+          "points": [
+            {
+              "However, if you (users) wish to change the screen resloution; following are the steps: :": [
+                "Step 1: Right Click on Desktop.",
+                "Step 2: Select Display setting.",
+                "Step 3: Under Display resolution, select the desired resolution."
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 7,
+          "type": "QuestionPointsAnswer",
+          "question": "Auto Hide Taskbar",
+          "image": "link",
+          "points": [
+            {
+              "The steps to hide the taskbar are: :": [
+                "Step 1: Right Click on an empty spot on the taskbar. ",
+                "Step 2: Click on 'taskbar settings' within the pop-down menu.",
+                "Step 3: Click on 'Automatically hide the taskbar' to make it on."
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 8,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Basic Typing Skill",
+          "description": "In today's technological world, all humans have become familiar with computers at early age. Some school have stopped teaching typing, assuming they already possess the skill necessary. However, without proper training and practice, many users looks down on keyboard to select the right keys one-by-one. Here are some points to improve basic typing skills:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Use the correct starting position:",
+              "pointDescription": "When practicing your typing skills, it's important to use proper hand placement. To start, keep your fingers of left hand over the **A, S, D and F keys**. And, fingers of right hand over the **J, K, L, and ; keys**. Lastly, thumbs hovering over the space bar.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Don't look down on your hands:",
+              "pointDescription": "Instead of looking down at your hands, focus on the screen. The users may find it difficult at first, especially if they haven't matsered the placement of fingers over the keys. Looking at the screen helps to improve your accuracy.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Practice: ",
+              "pointDescription": "Nothing is mastered overnight, and in order to improve your typing skill, you need to practice everyday. There are many websites that provides the free typing skills test and practice, such as; Typing Academy, TypingClub and How To Type.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 9,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Application / Use of Computer",
+          "description": "Computers play role in every field of life. Some of the common applications areas of computers are:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Education:",
+              "pointDescription": "Computers are used in education sector through online classes, online examinations, referring e-books, online tutoring, etc. Students can use computer to find answer, learn new things over the internet.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Entertainment:",
+              "pointDescription": "Computers can be used to watch movies online, watching videos, play games online, listening to music, etc.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Business Application:",
+              "pointDescription": "Nowadays, computers are totally integrated into business. Computer can be used for business for various purpose like stocks, prices, sales, investment, keeping account information, etc.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Scientific Research:",
+              "pointDescription": "Various scientific research like robotics, nuclear research can be done with computer. Supercomputers have numerous applications in area of Research and Development (R&D).",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Medical Field:",
+              "pointDescription": "Computers can be used in medical field to keep the database of patients and doctors. Computer can be used in ICU and X-ray.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 10,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Features of Computer",
+          "description": "Some of the features of computer are:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Speed:",
+              "pointDescription": "A computer works with much higher speed and accuracy compared to humans while performing the specified task. A modern computer can execute millions of instructions in one second. It can be measured in terms of Millisecond, Microseconds, Nanoseconds, Picoseconds, etc.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Accuracy:",
+              "pointDescription": "A computer is highly accurate device. Computer error caused due to incorrect input data or unreliable program are often referred to as garbage-in garbage-out (GIGO).",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Storage Capability:",
+              "pointDescription": "A computer has high data storage capacity. The storage capacity of computer can be increased by using secondary storage devices such as magnetic disk, optical disk and flesh driver. The storing capacity of computer is measured in terms of:",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Kilobyte - 1024 bytes,"
+                },
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Megabyte - 1024 kilobytes,"
+                },
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Gigabyte - 1024 Megabytes,"
+                },
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Terabytes - 1024 Gigabytes,"
+                },
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Petabyte - 1024 Terabytes, "
+                },
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Exabyte - 1024 Petabyte,"
+                },
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Zettabyte - 1024 Exabyte."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Automatic:",
+              "pointDescription": "Computer is automatic machine because one’s task is initiated; a computer can proceed on its own till its completion.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Diligent:",
+              "pointDescription": "The computer is capable of performing task repeatedly at the same level of speed and accuracy.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Versatile:",
+              "pointDescription": "A computer is known as versatile machine because It can be used for all sorts of applications ranging from complex calculation in scientific research and space research and computer can perform more than one task at same time.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Reliable:",
+              "pointDescription": "A computer has a high degree of reliability because it carries out calculation with high speed and accuracy . It does the calculation repeatedly without making mistakes.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 11,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Input Devices",
+          "description": "Input devices are the devices which takes inputs and sends them to computer.Some of the input devices are:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Electronic/Computer Keyboard ",
+              "pointDescription": "It is primary input device. It enables user to enter data and commands into a computer processing system. Keys on computer keyboards :",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Alphanumeric keys - letters and numbers"
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Punctuation keys - comma , period, semicolon and so on."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "Special keys - functions keys, control keys , arrow keys and so on."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Computer mouse",
+              "pointDescription": "It is small, palm-sized, plastic device. It has two or three buttons on the top with either a rotating ball or an optical sensor at the buttom.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Trackball",
+              "pointDescription": "Trackball is a stationary pointing device that contains a moveable ball rotated with a finger or palm.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Joystick",
+              "pointDescription": "Joystick is an input device consisting of a stick that pivots on a base and reports its angle or direction to the device it is controlling. Joysticks are often used to control video games and usually have one or more push-buttons whose state can also be read by the computer.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Light Pen",
+              "pointDescription": "The light pen is a light sensitive stylus, or pen-like device, connected by a wire to the computer terminal. The user brings the pen to a desired point on the display screen and presses the pen button which detects the light emitted from the screen and generates electric pulses, which are transmitted to a processor that identifies the particular pixel(point).",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Touch Screen",
+              "pointDescription": "A touch screen is a video display screen that has been sensitized to receive input from the touch from finger or some pointed object. It is a modern and advanced technology applied in laptops, cameras, mobile phones and lot more modern electronic devices. There are three types of touch screen technology:",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Captive screen"
+                },
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Infrared screen"
+                },
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "Pressure sensitive screen"
+                }
+              ]
+            },
+            {
+              "pointTitle": "Scanner",
+              "pointDescription": "The scanner is an input device which is used to enter text,images, and graphs printed on paper directly into the computer. It provides faster and more accurate data entry.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Digital Camera",
+              "pointDescription": "Used to capture and store photographs digitally.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 12,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Output Devices",
+          "description": "Output devics are the devices which sends outputs to outside world. There are two principal kinds of output. Hardcopy output refers to data printed output, printed on the paper or some material that can be touched and carried for being shown to others. Softcopy output refers to data/output that is displayed on the screen. This type of output is temporary in nature. Some of the output devices are:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Monitor",
+              "pointDescription": "It is most popular output device for producing soft-copy output. It can display wide variety of information, including text,icons ,photographs, computer render graphics, video and animation. The basic types of monitors :",
+              "subPoints": [
+                {
+                  "subpointTitle": "LCD (Liquid Crystal Display)",
+                  "subpointDescription": "It provides a wide viewing angle, save a lot of space and can even be mounted on walls."
+                },
+                {
+                  "subpointTitle": "LED (Light Emitting Diode)",
+                  "subpointDescription": "LED monitor contains an array of light emitting diodes as a video display. These diodes are turned on or off to display the output."
+                },
+                {
+                  "subpointTitle": "Touch Screen computer monitors",
+                  "subpointDescription": "This allows user to interact directly with the application on screen without need for a mouse or keyboard."
+                },
+                {
+                  "subpointTitle": "OLED(Organic Light Emitting Display)",
+                  "subpointDescription": "computer monitors Thinner and brighter than LCD screen."
+                },
+                {
+                  "subpointTitle": "Digital projector",
+                  "subpointDescription": "A digital projector is an electronic device that is capable of connecting to a computer or other device and projecting the video output onto a screen or wall. Digital projectors can be either fixed onto the ceiling, placed on a stand or can even be portable. Digital projectors are used in situations such as office training or presentation sessions, classroom teaching and home cinemas."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Printer:",
+              "pointDescription": "Printer is an output device that produces text and graphics on a physical medium such as paper. Printed information is called hard copy because the information exists physically and is a permanent form of output. There are mainly 2 types of printer:",
+              "subPoints": [
+                {
+                  "subpointTitle": "Impact printer:",
+                  "subpointDescription": "Impact printer is a printer that uses a mechanical hammering device to produce each character. Dot Matrix and Line printers are the example of impact printer."
+                },
+                {
+                  "subpointTitle": "Non-impact printer:",
+                  "subpointDescription": "Non-impact printers are those in which the printing is done with thermal, chemical, electrostatic laser beam or inkjet technology for printing. Laser and ink-jet printers are the example of non-impact printer."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Plotter:",
+              "pointDescription": "Plotter is a printer that interprets commands from a computer to make line drawings on paper with one or more automated pens. Plotter is used to produce vector graphics drawings.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 13,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Memory",
+          "description": "Computer memory is the storage space in the computer, that stores data instructions, or programs either temporarily or permanently. Computer memory can be divided into the following two types:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Primary Memory:",
+              "pointDescription": "Primary memory is the memory that is directly accessible to the CPU.There are two types of primary memory:",
+              "subPoints": [
+                {
+                  "subpointTitle": "RAM (Random Access Memory)",
+                  "subpointDescription": " RAM stands for Random Access Memory, and it is volatile memory i.e. once the power is cut off, data in RAM is erased automatically.. It is the place in a computer where the operating system, application programs, and data in current use are kept so they can be quickly reached by the computer's processor. RAM is much faster to read from and write to than other kinds of storage, such as a hard disk drive, solid state drive, or DVD."
+                },
+                {
+                  "subpointTitle": "ROM (Read Only Memory)",
+                  "subpointDescription": "ROM stands for Read-Only Memory. It is a type of non-volatile memory used in computers and other electronic devices. Data stored in ROM cannot be electronically modified after the manufacture of the memory device. ROM is used to store the startup instructions for a computer or other electronic device. When the device is powered on, the stored instructions are executed by the processor. It is also used to store firmware for electronic devices such as routers and printers. Firmware is a type of software that is stored in ROM and used to control the hardware of a device."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Cache Memory:",
+              "pointDescription": "Cache memory is a small, high speed memory system that stores copies of the data from the most frequently used main memory locations. It is placed between main memory and CPU. The main advantage of cache memory is that it is faster than main memory and it consume less time to load.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Secondary Memory:",
+              "pointDescription": "The secondary memory memory is long term memory which is used to store the data and information for future use. It supplements the limited storage capacity and the volatile characteristics. List of main types of secondary storage devices are: ",
+              "subPoints": [
+                {
+                  "subpointTitle": "Magnetic Tape",
+                  "subpointDescription": "Magnetic tape is a non-volatile storage. It is used for storing large volumes of data that are needed to be sequentially accessed and processed. Magnetic tape is called sequential access media because data of tape can only be accessed in sequential form."
+                },
+                {
+                  "subpointTitle": "Magnetic Disk ",
+                  "subpointDescription": "Magnetic disk is a secondary storage device which provides large storage capabilities. It is a thin, circular plate/platter made of plastic, which is usually coated on both sides with a magnetizable recording material, such as iron oxide. Recorded data are read by read/write heads. Two types of magnetic disks commonly used in microcomputers are: Hard drive and Floppy Disk."
+                },
+                {
+                  "subpointTitle": "Optical disk",
+                  "subpointDescription": "Optical disk is a rotating disk coated with a thin metal or some other material that is highly reflective. Optical disk works in following ways: A very fine laser beam is used for recording/reading of data on the disk. The digital data on the optical disk is recorded in the form of microscopic pits and lands. A pit represents a binary 0 and the land represents a binary 1"
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 14,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "History of Computer",
+          "description": "",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Abacus:",
+              "pointDescription": "It is developed by Chinese in 3000 B.C. It is still used by millions of people throughout Asia. It has rectangular wooden frame with rods carrying round beads. It is used to perform basic arthimetic operations.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Napier's Bones:",
+              "pointDescription": "Invented by John Napier in 1614. Napier's Bones is a small instrument which is made by 10 rods on which the multiplication table was engraved. Strips of ivory bones are used in Napier's Bones. It allowed the operator to multiply, divide and calculate square and cube roots by moving the rods around and placing them in specially constructed boards.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Slide Rule:",
+              "pointDescription": "The invention of logarithms influenced the development of another famous inventation know as slide rule. In 1620 first slide rule came into existance which was invented by William Oughtred.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Pascaline:",
+              "pointDescription": "Blaise Pascal, a french mathmatician, invented the first mechanical adding machine called pascaline in 1642. It worked on clock work mechanism principle. It consists of eight dials, gears and wheels.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Stepped Reckoner:",
+              "pointDescription": "In 1671 AD, a German mathematician , Gottfried Leibnitz modified the Pascaline machine and invented the first calculator Stepped Reckoner, which was able to perform automatic addition, subtraction, multiplication, division and could find out square root.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Jacquard Loom:",
+              "pointDescription": "Joseph Marie Jacquard, a French textile manufacturer invented a mechanism for automated weaving cloths for the textile industry. This machine was controlled by punch cards i.e. principle of present and absence of holes. It is still in used in Garment factory for cloth design.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Charles Babbage's Engine:",
+              "pointDescription": "Charles Babbage invented the Difference Engine in 1822 AD and Analytical Engine in 1833 AD. The basic plan proposed for the Analytical Engine by Charles Babbage completely matches with the input, process and output concept of the modern computers. This is why Charles Babbage is called the 'Father of Computer.'",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Tabulating Machine:",
+              "pointDescription": "Herman Hollerith, an American census statistician, developed a mechanical tabulating machine. It was used to assist in summarizing information and accounting. Hollerith established the Tabulating Machine Company in 1896 to manufacture his inventions. Later it become International Business Machine(IBM).",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Mark I:",
+              "pointDescription": "Howard Aiken, an American computer engineer and mathematician, in collaboration with engineers at IBM developed an electro-mechanical computer called Mark I. It was the first fully automatic calculating machine.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Atanasoff Berry Computer:",
+              "pointDescription": "Professor John Vincent Atanasoff and his graduate student Clifford Berry invented ABC at Lowa State University between 1939-1942. It was the first electronic computing device. It is considered as the first ccomputing machine which introduced the idea of binary arithmetic, regenerative memory, and logic circuits.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "ENIAC:",
+              "pointDescription": "Developed by John Mauchly and John Eckert in 1946. Known as Electronic Numerical Integrator and Calculator. It was the first electronic general purpose computer. This machine could discriminate the sign of number, compare quantities for equality, add, subtract, multiply, divide and extract square roots. It consists of 18000 vacuum tubes with 160KW electricity and weight 30 tons.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "UNIVAC 1:",
+              "pointDescription": "Designed by J.Presper Eckert and John mauchly and also known as Universal Automatic Computer. It was the first commerical computer. It was designed to handle both numeric and textual information.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "EDVAC:",
+              "pointDescription": "Designed by Dr. John Von Neumann, John William Mauchly and John Presper Eckert jr.in 1946. Also known as Electronic Discrete Variable Automatic Computer. It included a stored program, a central processor and a memory for both data and programs. It consists of approximately 4000 vacuum tubes. It consumed 56 Kilowatts of electric power.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 15,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Generation of Computer",
+          "description": "The development of computer took place in different distinct stages, which is known as generation of computer. With every new generation speed, storage, size, reliability of circuit in computer advanced. Technology used in different generation computers are:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "First Generation (1946-1958):",
+              "pointDescription": "",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "• Vacuum tubes are developed."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Speed of operation is measured in milliseconds."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Include the use of punched cards to input and store data."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Machine language aslo known as 1Gl was used to program computers."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• They were very large and required a lot of space for installation."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• The examples of first generation computer are ENIAC, EDVAC, UNIVAC, etc."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Second Generation (1959-1964):",
+              "pointDescription": "",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "• The second generation computers used transistors for circuitry."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• These computers are smaller, faster, and cheaper than first generation computers."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• They used magnetic disk and magnetic tape for storage."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Assembly language was used to program computers."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Some examples of second generation computers are-IBM 1401, IBM 700, ATLAS, etc."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Third Generation (1965-1974):",
+              "pointDescription": "",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "• Third generations computers used Integrated Circuit for circuitry."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• They are slower and less powerful computer than fourth generation computers."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• High level proframming language like COBOL, PASCAL, BASIC etc was used."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• They do not use GUI operating system."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Speed of operation is measured in nanoseconds."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Monitors and keyboards are used."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• For Examples, IBM systems/360, Altair, etc."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Fourth Generation (1975-1990):",
+              "pointDescription": "",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "• Fourth generation computers used microprocessor for circuitry."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• They are more powerful and fast than the third generation computers."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• They use GUI operating system."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Used Large Scale Integration (LSI) and Very Large-Scale Integration (VLSI) technologies."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• High level programming language like C, C++, DBASE etc was used."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Magnetic disk is used as external storage."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• For Example, IBM-pc."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Fifth Generation:",
+              "pointDescription": "",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "• Used Ultra Large-Scale Integration (ULSI) technology."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Using of intelligent programming."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "• Have faster and larger primary and secondary storage."
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 16,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Type Of Computer",
+          "description": "",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "On the basis of size computer are classified as:",
+              "pointDescription": "",
+              "subPoints": [
+                {
+                  "subpointTitle": "Super computer:",
+                  "subpointDescription": "They are extremely powerful computers used for manipulating large amount of data. They have large memory capacity and can perform complex scientific calculations. The speed of supercomputers is generally measured in “FLOPS”. Examples are Blue Gene/L, IBM ASCI White, etc."
+                },
+                {
+                  "subpointTitle": "Mainframe computer:",
+                  "subpointDescription": "They have huge memory and extremely rapid processing power. They are mainly used in large organizations for various applications. They act as the central host computer in distributed data processing systems. It is designed for large-scale data processing and a huge amount of data storage. Examples are VAX 8842, IBM System z9, etc."
+                },
+                {
+                  "subpointTitle": "Minicomputer:",
+                  "subpointDescription": "Minicomputers also called as mid-range servers, are more powerful computers than microcomputers in terms of processing power and capabilities. They have multiuser system where many users work on the system simultaneously. They are used in medium sized organization. Examples are VAX 7500, Interdata 8/32, etc."
+                },
+                {
+                  "subpointTitle": "Microcomputer:",
+                  "subpointDescription": "They are small digital computer with microprocessor, single semiconductor integrated circuit chip in CPU. It is designed for using by one person at a time but now it can network together. They include desktop computer, palmtop, pocket computer, laptop, etc."
+                }
+              ]
+            },
+            {
+              "pointTitle": "On the basis of working principle computer are classified as:",
+              "pointDescription": "",
+              "subPoints": [
+                {
+                  "subpointTitle": "Analog Computer:",
+                  "subpointDescription": "The computer which process the continuous data is called an analog computer. It operates by measuring rather than counting. It has very less memory, and can store limited amount of data. The speed of such computers is less than that of digital computers. They are not as reliable as digital computers. Its result are given out as voltage signals. Example: Analog Clock, Speedometer."
+                },
+                {
+                  "subpointTitle": "Digital Computer:",
+                  "subpointDescription": "The computer which works on discrete data is called digital computer. It operates by counting and adding i.e. it calculates. It has more memory space, hence stores large amount of data. It has two steps: On and Off. The speed of such computers is more in comparison to analog computers. The output are in numbers, exact values are seen on displays. Example: Desktop Computer."
+                },
+                {
+                  "subpointTitle": "Hybrid Computer:",
+                  "subpointDescription": "A computer, which has a combined best feature of both analog and digital computers, is called hybrid computer. They can convert data from analog to digital and vice-versa. It is the special purpose computer. It usually has a high cost compared to analog and digital computers. It is mostly used in airplane, radar communication, rocket launching, weather forecasting, automated industry, hosptial systems as CT scan, heart valve analysis."
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 17,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Components of Computer",
+          "description": "",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "The main components of computer are given below:",
+              "pointDescription": "",
+              "subPoints": [
+                {
+                  "subpointTitle": "Input devices:",
+                  "subpointDescription": "Input is the data entered into a computer for processing. Input can be in form of text, program, commands and user response. The devices which collect input for processing is called input devices. Keyboard, scanners, digital camera, audio, video are input devices. The main functions of input devices are: accept data, convert data and sends data in binary form to the computer."
+                },
+                {
+                  "subpointTitle": "Output Device:",
+                  "subpointDescription": "They are peripheral devices that receives or displays output from computer. Output can be in form of words, numbers, graphics, sounds, etc. The basic functions of output devices are: Accepts results, convert binary coded data and supplies converted results to the outside world. Monitor, Printer etc are the example of output devices."
+                },
+                {
+                  "subpointTitle": "Memory:",
+                  "subpointDescription": "Memory is blank space where different types of data, programs and software are stored. The term “volatile” in the context of computer memory refers to memory that requires power to maintain the stored information; it retains its contents while powered on but when the power is interrupted, the stored data is quickly lost. There are two types of memory:"
+                },
+                {
+                  "subpointTitle": "Microcomputer:",
+                  "subpointDescription": "They are small digital computer with microprocessor, single semiconductor integrated circuit chip in CPU. It is designed for using by one person at a time but now it can network together. They include desktop computer, palmtop, pocket computer, laptop, etc."
+                }
+              ]
+            },
+            {
+              "pointTitle": "On the basis of working principle computer are classified as:",
+              "pointDescription": "",
+              "subPoints": [
+                {
+                  "subpointTitle": "Analog Computer:",
+                  "subpointDescription": "The computer which process the continuous data is called an analog computer. It operates by measuring rather than counting. It has very less memory, and can store limited amount of data. The speed of such computers is less than that of digital computers. They are not as reliable as digital computers. Its result are given out as voltage signals. Example: Analog Clock, Speedometer."
+                },
+                {
+                  "subpointTitle": "Digital Computer:",
+                  "subpointDescription": "The computer which works on discrete data is called digital computer. It operates by counting and adding i.e. it calculates. It has more memory space, hence stores large amount of data. It has two steps: On and Off. The speed of such computers is more in comparison to analog computers. The output are in numbers, exact values are seen on displays. Example: Desktop Computer."
+                },
+                {
+                  "subpointTitle": "Hybrid Computer:",
+                  "subpointDescription": "A computer, which has a combined best feature of both analog and digital computers, is called hybrid computer. They can convert data from analog to digital and vice-versa. It is the special purpose computer. It usually has a high cost compared to analog and digital computers. It is mostly used in airplane, radar communication, rocket launching, weather forecasting, automated industry, hosptial systems as CT scan, heart valve analysis."
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 18,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Components of Computer",
+          "description": "The main components of computer are given below:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Input devices:",
+              "pointDescription": "Input is the data entered into a computer for processing. Input can be in form of text, program, commands and user response. The devices which collect input for processing is called input devices. Keyboard, scanners, digital camera, audio, video are input devices. The main functions of input devices are: accept data, convert data and sends data in binary form to the computer.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Output Device:",
+              "pointDescription": "They are peripheral devices that receives or displays output from computer. Output can be in form of words, numbers, graphics, sounds, etc. The basic functions of output devices are: Accepts results, convert binary coded data and supplies converted results to the outside world. Monitor, Printer etc are the example of output devices.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Memory:",
+              "pointDescription": "Memory is blank space where different types of data, programs and software are stored. The term “volatile” in the context of computer memory refers to memory that requires power to maintain the stored information; it retains its contents while powered on but when the power is interrupted, the stored data is quickly lost. There are two types of memory:",
+              "subPoints": [
+                {
+                  "subpointTitle": "a) Primary memory:",
+                  "subpointDescription": "Computer memory that is directly accessible to the CPU of computer. Primary memory is known as volatile memory. Example such as RAM, ROM though ROM is primary memory, it is a non-volatile in nature."
+                },
+                {
+                  "subpointTitle": "b) Secondary memory:",
+                  "subpointDescription": "Memory that supplements the primary memory. It is long-term and non-volatile. Examples are magnetic tape, magnetic disk, etc."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Central Processing Unit:",
+              "pointDescription": "CPU is the main information processor in computer capable of executing a program. CPU serve as “brain” of computer. It processes the raw data and turns it into information. It is linked with input/output devices and auxiliary storage units.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 19,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Motherboard",
+          "description": "The motherboard is the brain of the computer system. And, almost all the devices are directly or indirectly connected to this board. Without it, none of the computer pieces, such as CPU, GPU or hard drive could interact. Motherboard includes the following components:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "CPU",
+              "pointDescription": "It performs all the calculations that takes place inside pc. CPUs generate a lot of heat and thus require a cooling fan or heat sink.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Memory (RAM)",
+              "pointDescription": "RAM is a volatile memory that stores data and files being executed by the CPU.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "PCI Slot",
+              "pointDescription": "This is used to connect I/O devices to the motherboard.",
+              "subPoints": [
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "ROM",
+              "pointDescription": "ROM is non volatile storage where data are stored permanently. The BIOS information is kept in ROM and it tells how to start, what to do when it starts and so on.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Chipset",
+              "pointDescription": "Chipset is a group of small circuits that coordinates the flow of data and instructions between the CPU or microprocessor and external devices. There are two types of chipset:",
+              "subPoints": [
+                {
+                  "subpointTitle": "NorthBridge:",
+                  "subpointDescription": "The NorthBridge is in charge of controlling transfers between the processor and the RAM. This chip also contains a large heat sink."
+                },
+                {
+                  "subpointTitle": "SouthBridge:",
+                  "subpointDescription": "The SouthBridge handles communications between peripheral devices."
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 20,
+          "type": "QuestionAnswer",
+          "question": "RAM",
+          "image": "",
+          "answer": "RAM stands for Random Access Memory, and it is volatile memory i.e. once the power is cut off, data in RAM is erased automatically.. It is the place in a computer where the operating system, application programs, and data in current use are kept so they can be quickly reached by the computer's processor. RAM is much faster to read from and write to than other kinds of storage, such as a hard disk drive, solid state drive, or DVD. Your computer can access RAM memory much faster than data on a hard disk, SSD or other long term storage device.",
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 21,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Ports",
+          "description": "",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "USB Port",
+              "pointDescription": "It is used for connecting ecternal devices like mouse and keyboard.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Parallel Port",
+              "pointDescription": "It is used for genrally connecting printer and scanner.",
+              "subPoints": [
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Serial Port",
+              "pointDescription": "It is used for connecting modem and older mouse.",
+              "subPoints": [
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "VGA Port",
+              "pointDescription": "It is used for connecting monitor to compuer's video card.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Ethernet Port",
+              "pointDescription": "It is used for connecting network cable to computer.",
+              "subPoints": [
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 22,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Hardware and Software",
+          "description": "A computer system is divided into two categories:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Hardware",
+              "pointDescription": "In computer terms, Hardware is defined as or refereed to the physical and visible components of the system such as monitor, keyboard, printer and so on. They are externally connected to the computer system. If in case, they are damaged they can be replaced with the new one.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Software",
+              "pointDescription": "In computer terms, Software is defined as or refereed to the set of instructions which enable the hardware to perform some task. Software are of many types and each types performs different task. System software, software which is exectued at first when we turn on the computer. It's function are; file management, memory management, handling input and ouput devices and so on. Application software is designed to assist the user with a particular process. And Utility software helps to manage, maintain and control computer resources. Softwares are affected by the malware and viruses so they must be protected. Examples of software are: OS, MS Office, device driver and so on.",
+              "subPoints": [
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 23,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Taking Screenshot",
+          "description": "Taking screenshot in computer is one of the most easy and common task to do. We take screenshot for many reasons. We take screenshot to save notification message, save some important information, or take a screenshot of a picture or a video. Taking a screenshot in Windows is as easy as taking a screenshot in Android smartphone or iPhone.",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "",
+              "pointDescription": "If you want to take a screenshot on your Windows computer, there are several methods you can use, they are:",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "1. You can use the Print Screen Button from the key located at right top i.e. PrtSc."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "2. use the keyboard shortcut Windows Key + Shift + S to activate the snip and sketch tools. Your screen will go dim and a mini menu will appear at the top of your screen, giving you the option to take a rectangular, free-form, window, or full-screen capture."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "3. You can also take the screenshot by opening Game Bar by pressing the keys Windows Key + G."
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 24,
+          "type": "QuestionAnswerPoints",
+          "question": "File Management",
+          "image": "",
+          "answer": "File management in computer is the process of handling files and folders. This process includes creating, deleting, copying, and renaming files. File management is a vital part of any computer system. A file manager provides a user interface to work with file systems. It helps the user to organize and keep track of files on their computer.",
+          "points": [
+            {
+              "1. Creating Folder:": [
+                "Step 1: First of all, user choose the location for creating folder.",
+                "Step 2: Now, right click on the open are. Then, menu will appear.",
+                "Step 3: Then, choose the option New.",
+                "Step 4: And, choose folder from the appear menu."
+              ]
+            },
+            {
+              "2. Deleting files or folders:  ": [
+                "Step 1: Right click on the folder/file you want to delete.",
+                "Step 2: Click on Delete from the menu.",
+                "OR",
+                "Step 1: First, left click on that folder/file.",
+                "Step 2: Then, click on Delete button on the keyboard."
+              ]
+            },
+            {
+              "3. Renaming File or folders ": [
+                "Step 1: Right click on the desired file/folder.",
+                "Step 2: Click on Rename button.",
+                "Step 3: Now, enter the new name."
+              ]
+            },
+            {
+              "4. Copy File ": [
+                "Step 1: Right click on the desired file/folder.",
+                "Step 2: Choose, Copy option from the pop-up menu.",
+                "Step 3: Go to the location where you want to move that file.",
+                "Step 4: Right click on the open space.",
+                "Step 5: Now, Click on paste button."
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 25,
+          "type": "QuestionAnswer",
+          "question": "Windows Explorer",
+          "image": "",
+          "answer": "Windows Explorer is the file manager used by Windows. It allows users to manage files, folders and network connections, as well as search for files and related components. Windows Explorer has also grown to support new features unrelated to file management such as playing audio and videos and launching programs, etc. The desktop and the taskbar also form part of Windows Explorer. The look, feel and functionalities of Windows Explorer have been enhanced with each version of Windows. Starting with Windows 8.0, Windows Explorer has been called File Explorer.",
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 26,
+          "type": "QuestionAnswerPoints",
+          "question": "Disk Cleanup",
+          "image": "",
+          "answer": "Disk Cleanup is a Microsoft software utility first introduced with Windows 98 and included in all subsequent releases of Windows. It allows users to remove files that are no longer needed or that can be safely deleted. Removing unnecessary files, including temporary files, helps speed up and improve the performance of the hard drive and computer. Running Disk Cleanup at least once a month is an excellent maintenance task and frequency.",
+          "points": [
+            {
+              "The process to clean the disk in windows is given below:": [
+                "Step 1: In search box, type disk cleanup and select Disk Cleanup from the list.",
+                "Step 2: Select the drive you want to clean up, and then select OK.",
+                "Step 3: Under the files to delete, select the file you want to get delete.",
+                "Step 4: Then, Click OK."
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 27,
+          "type": "QuestionPointsAnswer",
+          "question": "Zip File Extraction ",
+          "image": "link",
+          "points": [
+            {
+              "To unzip Files follow the following process:": [
+                "Step 1: Open the File Explorer and find the zipped folder.",
+                "Step 2: To unzip the entire folder, right-click to select Extract All, and then follow the instructions."
+              ]
+            },
+            {
+              "And to unzip the single file or folder: ": [
+                "Step 1: Double click the zipped folder to open it.",
+                "Step 2: Then, drag or copy the item from the zipped folder to a new location."
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 28,
+          "type": "DifferenceBetween",
+          "question": "Difference Bettween a an b",
+          "description": "",
+          "image": "",
+          "colmun1": [
+            "A is a",
+            "A is apple"
+          ],
+          "colmun2": [
+            "B is b",
+            "B is ball"
+          ],
+          "completion": false,
+          "bookmark": false
+        }
+      ]
+    },
+    {
+  "id": 2,
+  "title": "Computer Software",
+  "resources": [
+    {
+      "id": 1,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "Introduction to Software",
+      "description": "Software is a set of instructions, data or programs used to operate computer and perform specific task. It commands all the peripheral devices on the computer system - what to do and how to perform a task. Software plays the role of moderator between the user and computer system or hardware. Software is also divided into sub types mainly on the basis of function that provides. They are:",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "- System Software:",
+          "pointDescription": "This software helps to load the basic programs automatically as soon as the computer is started. Without system software we cannot open computer. It provide interface between a computer hardware and computer user. It perform all the tasks like file management, memory management, process management,handling input and output, and controlling peripheral devices such as disk drivers and printers. It is also divides in following types:",
+          "subPoints": [
+            {
+              "subpointTitle": "Utility programs/software:",
+              "subpointDescription": "It is a computer software designed to help in the management and tuning of operating systems, computer hardware and application software. Nowadays, many operating systems have utility programs built directly into the operating system itself. Example of utility software's include Disk Drivers, Application Launchers and Virus Scanners."
+            },
+            {
+              "subpointTitle": "Language translators:",
+              "subpointDescription": "It converts the programming instructions written in human convenient form into machine language codes that computers understand and process. There are three basic kinds of translator programs: assembler, compiler and interpeter."
+            },
+            {
+              "subpointTitle": "Device drivers:",
+              "subpointDescription": "Driver is a software, provided by a hardware maker that tells the computer's operating system how to work with the hardware. They usually come with pre-installed in Computer operating system."
+            },
+            {
+              "subpointTitle": "Operating system:",
+              "subpointDescription": "An operating system is a computer program that coordinates all the activities among computer hardware devices."
+            }
+          ]
+        },
+        {
+          "pointTitle": "- Application Software:",
+          "pointDescription": "The software which can be used on an installed operating system is known as application software. Application software performs a specific task. Each program is designed to assist the user with a particular process, which may be related to productivity, creativity, and /or communication. The most common type of application software is MS Office Package which helps individuals in specific task.",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": ""
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 2,
+      "type": "QuestionAnswer",
+      "question": "Open Source Software",
+      "image": "",
+      "answer": "The term 'Open Source' refers to something people can modify and share as its design is publicly open. Open Source Software is software with source code that anyone can inspect, modify, and enhance. Source code is a part of software that a programmer can manipulate to chnage how a piece of software works. It has a become a movement and a way of working that reaches beyond software production. Some user prefers open source software over proprietary software beacuse of the following reasons: more control over the software, many consider it more secure, it's community is growing. Linux is one of the example of open source software. It has become the largest open source software project in the world. Professional and hobbyist programmers and developers from around the world contribute to the linxu kernel, adding features, finding and fixing bugs and security flaws, and providing new ideas while sharing their contributions back to the community. Anyone can run, study, modify, and redistribute the source code, or even sell copies of their modified code, as long as they do so under the same license.",
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 3,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "How to Install and Uninstall Software?",
+      "description": "",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "Installing Software:",
+          "pointDescription": "There are many ways to install a software in computer. The ways to install software are given below:",
+          "subPoints": [
+            {
+              "subpointTitle": "1. Installing from CD-ROM:",
+              "subpointDescription": "From the mid 1990s through the late 2000s, the most common way to get new software was to purchase a CD-ROM. Now, almost all software has moved away from this model. Many new computers no longer include CD-ROM."
+            },
+            {
+              "subpointTitle": "2. Installing from Web:",
+              "subpointDescription": {
+                "Today, the most common way to get a new software is to download it from the internet. The following are the ways to download a software from web:": [
+                  "Step 1: Search the required software in the web.",
+                  "Step 2: Locate and download .exe file.",
+                  "Step 3: Locate and double click the .exe file.",
+                  "Step 4: A dialog box will appear. Follow the instruction to install the software.",
+                  "Step 5: The software is installed. You can now open the application from the start menu."
                 ]
               }
-            ],
-            "completion": false,
-            "bookmark": false
-          },
-          {
-            "id": 2,
-            "title": "Turn on/off computer",
-            "image": "assets",
-            "description": "A computer is an electronic devices that takes input in the form of data and information, process it, gives meaningful output and store it. Computers are everywhere at school, home, bank, supermarket etc. The parts of a computer include the monitor, which displays information; the keyboard, which is used to type; the mouse, which is used to click; and the computer itself, which houses the computer's components.",
-            "points": [
-              {
-                "pointTitle": "Turn on computer",
-                "pointDescription": " ",
-                "subPoints": [
-                  {
-                    "subpointTitle": " ",
-                    "subpointDescription": "Step 1: Check the computer is connected to the power supply(main plug) and main plug is ON."
-                  },
-                  {
-                    "subpointTitle": "",
-                    "subpointDescription": "Step 2: Find the ON/OFF button on the computer system and push the button."
-                  },
-                  {
-                    "subpointTitle": "",
-                    "subpointDescription": "Step 3: Switch ON the monitor incase it is OFF."
-                  },
-                  {
-                    "subpointTitle": "",
-                    "subpointDescription": ""
-                  }
-                ]
-              },
-              {
-                "pointTitle": "Turno off computer",
-                "pointDescription": " ",
-                "subPoints": [
-                  {
-                    "subpointTitle": "",
-                    "subpointDescription": ""
-                  }
-                ]
-              }
-            ],
-            "completion": false,
-            "bookmark": false
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Computer Software",
-        "description": "Learn the basic ",
-        "resources": [
-          {
-            "id": 1,
-            "title": " computer",
-            "image": "https://media.discordapp.net/attachments/1059720863307538503/1061578242575839253/operating-system.png?width=1073&height=663",
-            "description": "A computer is an electronic devices that takes input in the form of data and information, process it, gives meaningful output and store it. Computers are everywhere at school, home, bank, supermarket etc. The parts of a computer include the monitor, which displays information; the keyboard, which is used to type; the mouse, which is used to click; and the computer itself, which houses the computer's components.",
-            "points": [
-              {
-                "pointTitle": "",
-                "pointDescription": " ",
-                "subPoints": [
-                  {
-                    "subpointTitle": "",
-                    "subpointDescription": ""
-                  }
-                ]
-              }
-            ],
-            "completion": false,
-            "bookmark": false
-          },
-          {
-            "id": 2,
-            "title": "Turn on/off computer",
-            "image": "assets",
-            "description": "A computer is an electronic devices that takes input in the form of data and information, process it, gives meaningful output and store it. Computers are everywhere at school, home, bank, supermarket etc. The parts of a computer include the monitor, which displays information; the keyboard, which is used to type; the mouse, which is used to click; and the computer itself, which houses the computer's components.",
-            "points": [
-              {
-                "pointTitle": "Turn on computer",
-                "pointDescription": " ",
-                "subPoints": [
-                  {
-                    "subpointTitle": " ",
-                    "subpointDescription": "Step 1: Check the computer is connected to the power supply(main plug) and main plug is ON."
-                  },
-                  {
-                    "subpointTitle": "",
-                    "subpointDescription": "Step 2: Find the ON/OFF button on the computer system and push the button."
-                  },
-                  {
-                    "subpointTitle": "",
-                    "subpointDescription": "Step 3: Switch ON the monitor incase it is OFF."
-                  },
-                  {
-                    "subpointTitle": "",
-                    "subpointDescription": ""
-                  }
-                ]
-              },
-              {
-                "pointTitle": "Turno off computer",
-                "pointDescription": " ",
-                "subPoints": [
-                  {
-                    "subpointTitle": "",
-                    "subpointDescription": ""
-                  }
-                ]
-              }
-            ],
-            "completion": false,
-            "bookmark": false
-          }
-        ]
-      }
-    ]
+            }
+          ]
+        },
+        {
+          "pointTitle": "Uninstalling Software",
+          "pointDescription": "The steps to uninstall software are as follows:",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "Step 1: In search box, type control pannel."
+            },
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "Step 2: In, control pannel select Programs."
+            },
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "Step 3: Inside Programs, select Programs and Features."
+            },
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "Step 4: Then, right click on the software you want to remove."
+            },
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "Step 5: And, select Uninstall or Uninstall/Change. Your application/software is uninstalled from your computer."
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 4,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "Popular Software with it's Uses",
+      "description": "Many softwares are being developed all over the world. They make our easier and faster. There are individual software for specific task or work. Among them some most popular software are enlisted below with its uses:",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "1. MS OFFICE Package:",
+          "pointDescription": "It include:",
+          "subPoints": [
+            {
+              "subpointTitle": "MS Word: ",
+              "subpointDescription": "It is one of the most popular software used for composing, editing, formatting, saving, sharing, and accessing documents, including project reports, correspondence, memos, and more."
+            },
+            {
+              "subpointTitle": "MS Excel:",
+              "subpointDescription": "It is the most popular application used globally by bankers, researchers, students, accounts teams, and businesses as it allows you to calculate as well as visualize data."
+            },
+            {
+              "subpointTitle": "MS PowerPoint:",
+              "subpointDescription": " It is presentation software that helps to present your idea visually to your audience in the form of slide."
+            }
+          ]
+        },
+        {
+          "pointTitle": "2. Adobe Photoshop:",
+          "pointDescription": "It is graphic design and image editing software, with this user can create design, edit photos, craft concept art and resize your work.",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": ""
+            }
+          ]
+        },
+        {
+          "pointTitle": "3. Gmail:",
+          "pointDescription": "It helps to communicate you with other people digitaly. You can attach file with it and send it to reciever.",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": ""
+            }
+          ]
+        },
+        {
+          "pointTitle": "4. Google Chrome:",
+          "pointDescription": "It is software that helps to search information realted many things using internet.",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": ""
+            }
+          ]
+        },
+        {
+          "pointTitle": "5. Adobe After Effects:",
+          "pointDescription": "It is visual effect software that allows you to edit your video as well as allows you to put effects in your videos.",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": ""
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    }
+  ]
   }
+
+  ] 
+}
