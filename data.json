@@ -1474,13 +1474,31 @@
             },
             {
               "subpointTitle": "2. Installing from Web:",
-              "subpointDescription": {
-                "Today, the most common way to get a new software is to download it from the internet. The following are the ways to download a software from web:": [
-                  "Step 1: Search the required software in the web.",
-                  "Step 2: Locate and download .exe file.",
-                  "Step 3: Locate and double click the .exe file.",
-                  "Step 4: A dialog box will appear. Follow the instruction to install the software.",
-                  "Step 5: The software is installed. You can now open the application from the start menu."
+            "subpointDescription": "Today, the most common way to get a new software is to download it from the internet. The following are the ways to download a software from web:": [
+            },
+             {
+              "subpointTitle": "",
+              "subpointDescription": "Step 1: Search the required software in the web."
+            },
+             {
+              "subpointTitle": "",
+              "subpointDescription": "Step 2: Locate and download .exe file."
+             
+            },
+             {
+              "subpointTitle": "",
+              "subpointDescription": "Step 3: Locate and double click the .exe file."
+            },
+             {
+              "subpointTitle": "",
+              "subpointDescription": "Step 4: A dialog box will appear. Follow the instruction to install the software."
+            },
+              {
+              "subpointTitle": "",
+              "subpointDescription": "Step 5: The software is installed. You can now open the application from the start menu."
+            }
+                  
+                  
                 ]
               }
             }
