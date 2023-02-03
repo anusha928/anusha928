@@ -1603,5 +1603,208 @@
       "bookmark": false
     }
   ]
+  },
+     {
+  "id": 2,
+  "title": "Computer Software",
+  "resources": [
+    {
+      "id": 1,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "Introduction to Software",
+      "description": "Software is a set of instructions, data or programs used to operate computer and perform specific task. It commands all the peripheral devices on the computer system - what to do and how to perform a task. Software plays the role of moderator between the user and computer system or hardware. Software is also divided into sub types mainly on the basis of function that provides. They are:",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "- System Software:",
+          "pointDescription": "This software helps to load the basic programs automatically as soon as the computer is started. Without system software we cannot open computer. It provide interface between a computer hardware and computer user. It perform all the tasks like file management, memory management, process management,handling input and output, and controlling peripheral devices such as disk drivers and printers. It is also divides in following types:",
+          "subPoints": [
+            {
+              "subpointTitle": "Utility programs/software:",
+              "subpointDescription": "It is a computer software designed to help in the management and tuning of operating systems, computer hardware and application software. Nowadays, many operating systems have utility programs built directly into the operating system itself. Example of utility software's include Disk Drivers, Application Launchers and Virus Scanners."
+            },
+            {
+              "subpointTitle": "Language translators:",
+              "subpointDescription": "It converts the programming instructions written in human convenient form into machine language codes that computers understand and process. There are three basic kinds of translator programs: assembler, compiler and interpeter."
+            },
+            {
+              "subpointTitle": "Device drivers:",
+              "subpointDescription": "Driver is a software, provided by a hardware maker that tells the computer's operating system how to work with the hardware. They usually come with pre-installed in Computer operating system."
+            },
+            {
+              "subpointTitle": "Operating system:",
+              "subpointDescription": "An operating system is a computer program that coordinates all the activities among computer hardware devices."
+            }
+          ]
+        },
+        {
+          "pointTitle": "- Application Software:",
+          "pointDescription": "The software which can be used on an installed operating system is known as application software. Application software performs a specific task. Each program is designed to assist the user with a particular process, which may be related to productivity, creativity, and /or communication. The most common type of application software is MS Office Package which helps individuals in specific task.",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": ""
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 2,
+      "type": "QuestionAnswer",
+      "question": "Open Source Software",
+      "image": "",
+      "answer": "The term 'Open Source' refers to something people can modify and share as its design is publicly open. Open Source Software is software with source code that anyone can inspect, modify, and enhance. Source code is a part of software that a programmer can manipulate to chnage how a piece of software works. It has a become a movement and a way of working that reaches beyond software production. Some user prefers open source software over proprietary software beacuse of the following reasons: more control over the software, many consider it more secure, it's community is growing. Linux is one of the example of open source software. It has become the largest open source software project in the world. Professional and hobbyist programmers and developers from around the world contribute to the linxu kernel, adding features, finding and fixing bugs and security flaws, and providing new ideas while sharing their contributions back to the community. Anyone can run, study, modify, and redistribute the source code, or even sell copies of their modified code, as long as they do so under the same license.",
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 3,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "How to Install and Uninstall Software?",
+      "description": "",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "Installing Software:",
+          "pointDescription": "There are many ways to install a software in computer. The ways to install software are given below:",
+          "subPoints": [
+            {
+              "subpointTitle": "1. Installing from CD-ROM:",
+              "subpointDescription": "From the mid 1990s through the late 2000s, the most common way to get new software was to purchase a CD-ROM. Now, almost all software has moved away from this model. Many new computers no longer include CD-ROM."
+            },
+            {
+              "subpointTitle": "2. Installing from Web:",
+            "subpointDescription": "Today, the most common way to get a new software is to download it from the internet. The following are the ways to download a software from web:"
+            },
+             {
+              "subpointTitle": "",
+              "subpointDescription": "Step 1: Search the required software in the web."
+            },
+             {
+              "subpointTitle": "",
+              "subpointDescription": "Step 2: Locate and download .exe file."
+             
+            },
+             {
+              "subpointTitle": "",
+              "subpointDescription": "Step 3: Locate and double click the .exe file."
+            },
+             {
+              "subpointTitle": "",
+              "subpointDescription": "Step 4: A dialog box will appear. Follow the instruction to install the software."
+            },
+              {
+              "subpointTitle": "",
+              "subpointDescription": "Step 5: The software is installed. You can now open the application from the start menu."
+            }
+                  
+                  
+                ]
+              },
+            
+        
+        {
+          "pointTitle": "Uninstalling Software",
+          "pointDescription": "The steps to uninstall software are as follows:",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "Step 1: In search box, type control pannel."
+            },
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "Step 2: In, control pannel select Programs."
+            },
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "Step 3: Inside Programs, select Programs and Features."
+            },
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "Step 4: Then, right click on the software you want to remove."
+            },
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "Step 5: And, select Uninstall or Uninstall/Change. Your application/software is uninstalled from your computer."
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 4,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "Popular Software with it's Uses",
+      "description": "Many softwares are being developed all over the world. They make our easier and faster. There are individual software for specific task or work. Among them some most popular software are enlisted below with its uses:",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "1. MS OFFICE Package:",
+          "pointDescription": "It include:",
+          "subPoints": [
+            {
+              "subpointTitle": "MS Word: ",
+              "subpointDescription": "It is one of the most popular software used for composing, editing, formatting, saving, sharing, and accessing documents, including project reports, correspondence, memos, and more."
+            },
+            {
+              "subpointTitle": "MS Excel:",
+              "subpointDescription": "It is the most popular application used globally by bankers, researchers, students, accounts teams, and businesses as it allows you to calculate as well as visualize data."
+            },
+            {
+              "subpointTitle": "MS PowerPoint:",
+              "subpointDescription": " It is presentation software that helps to present your idea visually to your audience in the form of slide."
+            }
+          ]
+        },
+        {
+          "pointTitle": "2. Adobe Photoshop:",
+          "pointDescription": "It is graphic design and image editing software, with this user can create design, edit photos, craft concept art and resize your work.",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": ""
+            }
+          ]
+        },
+        {
+          "pointTitle": "3. Gmail:",
+          "pointDescription": "It helps to communicate you with other people digitaly. You can attach file with it and send it to reciever.",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": ""
+            }
+          ]
+        },
+        {
+          "pointTitle": "4. Google Chrome:",
+          "pointDescription": "It is software that helps to search information realted many things using internet.",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": ""
+            }
+          ]
+        },
+        {
+          "pointTitle": "5. Adobe After Effects:",
+          "pointDescription": "It is visual effect software that allows you to edit your video as well as allows you to put effects in your videos.",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": ""
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    }
+  ]
   }
 ]}
